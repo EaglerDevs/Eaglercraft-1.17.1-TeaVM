@@ -1,5 +1,5 @@
-Welcome To Eaglercraft 1.21.1! Please Click Fork Because This Repo May Not Be Here Long!
-TeaVM Port Of Minecraft 1.21.1!
+Welcome To Eaglercraft 1.17.1! Please Click Fork Because This Repo May Not Be Here Long!
+TeaVM Port Of Minecraft 1.17.1!
 
 
 Pros:
